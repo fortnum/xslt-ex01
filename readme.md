@@ -1,0 +1,1 @@
+npx xslt3 -s:trans-input-file.html -xsl:trans-file.xsl -o:trans-output-file.html
